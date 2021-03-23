@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Nouvelle Compilation auto via triggers Jenkins !");
+        System.out.println("Nouvelle Compilation auto via WebHook Githubb !");
     }
 }
